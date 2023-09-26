@@ -1,6 +1,7 @@
 // JavaScript - JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
 
-
+// To run JavaScript code in VS Code Use "Code Runnner" Extension 
+// Right Click in the JS Code file and then click on run code
 
 console.log("Let's Understand Variables in JavaScript");
 
